@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "liveCodeBFF.Controllers.ListaCartaoController",
+    "Method": "ListaCartao",
+    "RelativePath": "Lista_Cartao",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
